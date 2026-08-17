@@ -29,5 +29,5 @@ sudo mkfs.btrfs -f -L HDD_one /dev/sda
 
 #### Pacman<
 ```
-sudo pacman -S jdk-openjdk libreoffice-fresh cava fastfetch cmatrix base-devel restup nvim git 
+sudo pacman -S jdk-openjdk libreoffice-fresh cava fastfetch cmatrix base-devel restup nvim git zed
 ```
