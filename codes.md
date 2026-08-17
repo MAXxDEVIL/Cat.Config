@@ -26,3 +26,8 @@ sudo mkfs.btrfs -f -L game_one /dev/nvmeName
 ```
 sudo mkfs.btrfs -f -L HDD_one /dev/sda
 ```
+
+#### Pacman<
+```
+sudo pacman -S jdk-openjdk libreoffice-fresh cava fastfetch cmatrix base-devel restup nvim git 
+```
